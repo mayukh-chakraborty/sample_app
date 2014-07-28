@@ -19,7 +19,7 @@ group :test do
 	gem 'sass-rails', '4.0.1'
 	gem 'uglifier', '2.1.1'
 	gem 'coffee-rails', '4.0.1'
-	
+	gem 'factory_girl_rails', '4.2.0'
 	gem 'jbuilder', '1.0.2'
 end
 
